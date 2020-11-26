@@ -29,7 +29,7 @@ Use of the identification and enclosing of region of interest in pattern recogni
 ### Template Matching
 Template matching is a technique in digital image processing for finding small parts of an image which match a template image, such as matching the head image of the footballer Messi to a complete image of him.
 
-![images5](images/84_template matching.JPG)
+![images5](images/84_template_matching.JPG)
 
 ***
 ### Hough Transform
