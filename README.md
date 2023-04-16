@@ -1,6 +1,9 @@
 # OpenCV
 Application of OpenCV library for Computer Vision tasks
 
+OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. It provides developers with a wide range of algorithms and tools for processing and analyzing images and video in real-time.
+
+
 *** 
 ### Thresholding
 A simple digital image processing technique of segmenting images into grayscale and binary images.
