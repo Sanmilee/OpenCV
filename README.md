@@ -5,10 +5,6 @@ OpenCV (Open Source Computer Vision Library) is an open-source computer vision a
 
 OpenCV includes a variety of features such as face detection, object recognition, optical character recognition (OCR), and tracking algorithms. It also provides image and video processing functions such as color space conversions, filtering, and transformation.
 
-OpenCV is written in C++, but it also has interfaces for other programming languages including Python, Java, and MATLAB. This makes it a popular choice for developers working in various domains such as robotics, automation, and computer vision research.
-
-
-
 *** 
 ### Thresholding
 A simple digital image processing technique of segmenting images into grayscale and binary images.
